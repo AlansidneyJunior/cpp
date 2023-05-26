@@ -100,6 +100,7 @@ int main (){
     list.addToTopo(10);
     list.addToTopo(20);
     list.addToTopo(30);
+    list.deleteFromTopo();
 
     list.showList();
 
